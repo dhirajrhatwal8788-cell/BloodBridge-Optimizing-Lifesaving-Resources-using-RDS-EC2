@@ -1,2 +1,1 @@
-# LifeLink - Blood Donation Management System
-
+#  BloodBridge: Optimizing Lifesaving Resources using RDS,EC2
